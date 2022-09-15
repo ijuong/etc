@@ -1,0 +1,21 @@
+<ul class="mCustomScrollbar _mCS_2 mCS_no_scrollbar" id="menu-tree" style="position: relative; overflow: visible;">
+	<li class="menu-tree"><button class="menu-tit">관리자</button>
+		<ul class="inner-depth">
+			<li><button>비밀번호초기화</button>
+			</li>
+		</ul>
+
+	</li>
+	<li class="menu-tree"><button class="menu-tit">시스템</button>
+		<ul class="inner-depth">
+			<li><button>시스템관리</button>
+				<ul class="inner-depth">
+					<li><button>프로그램관리</button>
+					</li>
+					<li><button>허용프로그램관리</button>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
